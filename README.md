@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cyberagui
 - 👀 I’m interested in Excel VBA / Outlook VBA and Python
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on developing the RAP, BOT.
+- 💞️ I’m looking to collaborate on developing the RPA, BOT.
 - 📫 How to earch me: 
      cyberagui@gmail.com
 
